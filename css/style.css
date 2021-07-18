@@ -355,8 +355,8 @@ section#skills .group {
 
 @media only screen and (min-width: 850px) {
   .band {
-    -ms-grid-columns: 1fr 1fr 1fr 1fr;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+    -ms-grid-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
@@ -412,8 +412,8 @@ section#skills .group {
   padding-bottom: 10%;
   background-size: cover;
   background-position: center center;
-  width: 300px;
-  height: 300px;
+  width: 440px;
+  height: 440px;
 }
 
 /* typography */
